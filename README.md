@@ -5,6 +5,6 @@
 - CSS
 - HTML
 
-Preview: ![image](https://user-images.githubusercontent.com/95232367/155809139-35e03024-e8f0-41ad-802f-11e46805abbe.png)
+Preview: ![image](https://user-images.githubusercontent.com/95232367/155810432-5db52864-1cb5-4adf-b73a-21f6cc1aabd4.png)
 
 
